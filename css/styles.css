@@ -29,10 +29,10 @@ h2 {
   padding-bottom: 10px;
 }
 
-h3 {
+h3, tr, th {
   color:#11999E;
   font-family: 'Montserrat', sans-serif;
-  font-size: 125%;
+  font-size: 200%;
 }
 
 p {
